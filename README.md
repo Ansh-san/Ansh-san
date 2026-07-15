@@ -6,7 +6,7 @@ typing
 🧑‍💻 me
 B.Tech CSE & AI · 4th Year · India
 
-I build ML systems that turn data into decisions. Currently obsessed with deep learning, computer vision, and making AI actually useful — not just cool demos.
+I build AI + Full Stack Developer | Building RAG apps, agentic workflows, and useful web products . Currently obsessed with deep learning, computer vision, and making AI actually useful — not just cool demos.
 
 
 🔨 what i'm building
