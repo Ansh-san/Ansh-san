@@ -12,9 +12,9 @@
 
 ---
 
-### 🧑‍💻 About Me
 
-```python
+About Me
+python
 class AnshParashar:
     def __init__(self):
         self.role = "B.Tech CSE & AI (4th Year)"
