@@ -1,3 +1,4 @@
+<img src="https://raw.githubusercontent.com/Ansh-san/Ansh-san/main/assets/blackhole-birth.svg" alt="Birth of a Black Hole" width="100%">
 # Hi, I'm Ansh Parashar
 
 **AI Engineer | Full-Stack Developer | Building RAG & Agentic Systems**
