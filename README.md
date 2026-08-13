@@ -42,6 +42,8 @@ class AnshParashar:
 
 <img src="https://img.shields.io/badge/LangChain-0D0D0D?style=flat-square&logo=langchain&logoColor=CCF655" alt="LangChain">
 <img src="https://img.shields.io/badge/Gemini-0D0D0D?style=flat-square&logo=googlegemini&logoColor=CCF655" alt="Gemini">
+<img src="https://img.shields.io/badge/Groq-0D0D0D?style=flat-square&logo=groq&logoColor=CCF655" alt="Groq">
+<img src="https://img.shields.io/badge/ChromaDB-0D0D0D?style=flat-square&logo=chromadb&logoColor=CCF655" alt="ChromaDB">
 <img src="https://img.shields.io/badge/OpenAI-0D0D0D?style=flat-square&logo=openai&logoColor=CCF655" alt="OpenAI">
 <img src="https://img.shields.io/badge/HuggingFace-0D0D0D?style=flat-square&logo=huggingface&logoColor=CCF655" alt="HuggingFace">
 
@@ -72,6 +74,7 @@ class AnshParashar:
 | 🧩 [CodeViz AI](https://github.com/Ansh-san/codeviz-ai) | Interactive codebase visualizer — parses source into an AST graph you can click through, with Gemini-powered per-node explanations in technical and plain-English modes | React (Vite) · ReactFlow · Express · Gemini API | 🟡 In progress |
 | 🪐 [Exoplanet Detection (Kepler)](https://github.com/Ansh-san/Exoplanet-Detection-Kepler) | Classifying NASA Kepler light-curve data with an ensemble of Random Forest, XGBoost, and CNN-LSTM, validated with stratified k-fold CV and PR curves | Python · TensorFlow · Scikit-learn · XGBoost | ✅ Model complete · dashboard in progress |
 | 🌡️ [Temperature Prediction](https://github.com/Ansh-san/temperature-prediction-project) | Climate trend forecasting with a Random Forest regressor, deployed as an interactive app | Python · Pandas · Scikit-learn · Streamlit | ✅ Complete |
+| 📄💬 [RAG PDF Chatbot](https://github.com/Ansh-san/rag-pdf-chatbot) | Chat with any PDF — answers grounded strictly in the document via retrieval, no hallucinated facts | Python · Streamlit · Groq (Llama 3.1 8B) · ChromaDB | ✅ Complete |
 
 ## 🎯 Currently
 
