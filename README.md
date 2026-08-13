@@ -85,6 +85,17 @@ class AnshParashar:
 - 💬 Ask me about RAG, LLMs, Python, or Kepler exoplanets
 - 📫 Reach me: prshrlucky@gmail.com
 
+## 📜 Certifications
+
+| Credential | Issuer | Date |
+|---|---|---|
+| AI Engineer Core Track (LLM, RAG, QLoRA, Agents) | Udemy | Jul 2026 |
+| AI Engineer Agentic Track (Agents & MCP) | Udemy | Jul 2026 |
+| CyberOps Associate | Cisco | Jun 2026 |
+| Generative AI Essentials | TCS iON | Jun 2026 |
+| JavaScript Essentials | Cisco | Sep 2025 |
+| Introduction to Modern AI | Cisco | Sep 2025 |
+
 ## 📊 GitHub Analytics
 
 <img src="https://github-readme-stats.vercel.app/api?username=Ansh-san&show_icons=true&theme=radical&title_color=CCF655&icon_color=CCF655&text_color=888888&bg_color=0D0D0D&hide_border=true&ring_color=CCF655&line_height=26&custom_title=Ansh's%20GitHub%20Stats" height="160" alt="GitHub Stats">
